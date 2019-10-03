@@ -1,37 +1,41 @@
-## Machine Learning and Probabilistic Modelling
+In order to sign up for the course and get access to the Piazza group fill in
+[this form](https://forms.gle/HB4JDHsqYQrSZM8j9).
 
-You can use the [editor on GitHub](https://github.com/svepe/mlpm/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Lecturer**: [Dr. Svetlin Penkov](https://www.linkedin.com/in/svpenkov/)
 
-### Markdown
+<dl>
+  <dt>Time and Place</dt>
+  <dd>Lectures - Tuesdays, LT 500, 19:00-21:00</dd>
+  <dd>Seminars - Tuesdays, LT 500, 17:00-19:00</dd>
+</dl>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Date   | Topic                                             | Problems |
+|--------|---------------------------------------------------|----------|
+| 3 Oct  | Intro & Logistics                                 |          |
+| 8 Oct  | Introduction to ML & Maths Prerequisites Overview |          |
+| 15 Oct | Generative Models for Discrete Data               |          |
+| 22 Oct | Gaussian Models                                   |          |
+| 29 Oct | Linear Regression                                 |          |
+| 5 Nov  | Logistic Regression                               |          |
+| 12 Nov | Directed Graphical Models                         |          |
+| 19 Nov | Mixture Models & Expectation Maximisation         |          |
+| 26 Nov | Markov & Hidden Markov Models                     |          |
+| 3 Dec  | State Space Models                                |          |
+| 10 Dec | Inference Methods                                 |          |
+| 17 Dec | Undirected Graphical Models                       |          |
+| 7 Jan  | Probabilistic & Differentiable Programming        |          |
+| 14 Jan | Deep Generative Models                            |          |
 
-```markdown
-Syntax highlighted code block
+## Prerequisites
+*	Mathematics:
+	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+	- [Probability & Stochastic Processes](https://projects.iq.harvard.edu/stat110/youtube)
+	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+*   Programming:
+    - Python
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svepe/mlpm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Reading List
+1. [Machine Learning: A Probabilistic Perspective, K. Murphy](https://mitpress.mit.edu/books/machine-learning-1)
+2. [Pattern Recognition and Machine Learning, C. Bishop](https://www.springer.com/gp/book/9780387310732)

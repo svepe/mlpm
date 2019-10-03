@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: [MLPM]
-description: [Machine Learning and Probabilistic Modelling]
+title: Machine Learning & Probabilistic Modelling
+description: Faculty of Mathematics and Informatics, Sofia University<br/> Fall 2019
+github:
+  is_project_page: false
