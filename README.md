@@ -1,1 +1,1 @@
-# mlpm
+# Machine Learning & Probabilistic Modelling
