@@ -15,7 +15,7 @@ In order to sign up for the course and get access to the Piazza group fill in
 |--------|--------------------------------------------|---------|----------|
 | 3 Oct  | Intro & Logistics                          |[Slides](https://github.com/svepe/mlpm/raw/master/slides/1.%20Introduction%20%26%20Logistics.pdf)| |
 | 8 Oct  | Introduction to ML & Maths Prerequisites   | Ch. 1, 2 |[Tutorial 1](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_1.pdf)|
-| 15 Oct | Generative Models for Discrete Data        |          |          |
+| 15 Oct | Generative Models for Discrete Data        | Ch. 3    |[Tutorial 2](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_2.pdf)|
 | 22 Oct | Gaussian Models                            |          |          |
 | 29 Oct | Linear Regression                          |          |          |
 | 5 Nov  | Logistic Regression                        |          |          |
