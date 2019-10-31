@@ -17,16 +17,17 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 8 Oct  | Introduction to ML & Maths Prerequisites   | Ch. 1, 2 |[Tutorial 1](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_1.pdf)|
 | 15 Oct | Generative Models for Discrete Data        | Ch. 3    |[Tutorial 2](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_2.pdf)|
 | 22 Oct | Gaussian Models                            | Ch. 4    |[Tutorial 3](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_3.pdf)|
-| 29 Oct | Linear Regression                          |          |          |
-| 5 Nov  | Logistic Regression                        |          |          |
-| 12 Nov | Directed Graphical Models                  |          |          |
-| 19 Nov | Mixture Models & Expectation Maximisation  |          |          |
-| 26 Nov | Markov & Hidden Markov Models              |          |          |
-| 3 Dec  | State Space Models                         |          |          |
+| 29 Oct | Linear Regression                          | Ch. 7, Sec. 5.3.1 |[Tutorial 4](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_4.pdf)|
+| 12 Nov | Logistic Regression                        |          |          |
+| 19 Nov | Directed Graphical Models                  |          |          |
+| 26 Nov | Mixture Models & Expectation Maximisation  |          |          |
+| 3 Dec  | Markov & Hidden Markov Models              |          |          |
 | 10 Dec | Inference Methods                          |          |          |
 | 17 Dec | Undirected Graphical Models                |          |          |
 | 7 Jan  | Probabilistic & Differentiable Programming |          |          |
 | 14 Jan | Deep Generative Models                     |          |          |
+
+You can find all the code from the tutorials [here](https://github.com/svepe/mlpm/tree/master/tutorials/code).
 
 ## Prerequisites
 *	Mathematics:
