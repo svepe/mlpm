@@ -18,7 +18,7 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 15 Oct | Generative Models for Discrete Data        | Ch. 3    |[Tutorial 2](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_2.pdf)|
 | 22 Oct | Gaussian Models                            | Ch. 4    |[Tutorial 3](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_3.pdf)|
 | 29 Oct | Linear Regression                          | Ch. 7, Sec. 5.3.1 |[Tutorial 4](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_4.pdf)|
-| 12 Nov | Logistic Regression                        |          |          |
+| 12 Nov | Logistic Regression                        | Ch. 8    |[Tutorial 5](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_5.pdf)|
 | 19 Nov | Directed Graphical Models                  |          |          |
 | 26 Nov | Mixture Models & Expectation Maximisation  |          |          |
 | 3 Dec  | Markov & Hidden Markov Models              |          |          |
@@ -28,6 +28,22 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 14 Jan | Deep Generative Models                     |          |          |
 
 You can find all the code from the tutorials [here](https://github.com/svepe/mlpm/tree/master/tutorials/code).
+
+## Coursework
+
+You can find the MLPM coursework [here](https://github.com/svepe/mlpm/blob/master/coursework/mlpm_coursework.pdf).
+
+**Due date**: 10 Dec 2019
+
+You should hand in a hard copy report at one of the lectures before the deadline.
+Preferably you would write your report in English on a computer using e.g. LaTeX.
+This is a great opportunity to practice your technical English as well as to
+learn useful tools such as LaTeX. Handwritten reports in Bulgarian are acceptable,
+but not encouraged.
+
+There are no hard requirements for the programming language, however, you are
+strongly advised to use Python since this is the predominantly used language
+in the field.
 
 ## Prerequisites
 *	Mathematics:
