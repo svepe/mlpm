@@ -20,7 +20,7 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 29 Oct | Linear Regression                          | Ch. 7, Sec. 5.3.1 |[Tutorial 4](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_4.pdf)|
 | 12 Nov | Logistic Regression                        | Ch. 8    |[Tutorial 5](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_5.pdf)|
 | 19 Nov | Directed Graphical Models                  | Ch. 10   |[Tutorial 6](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_6.pdf)|
-| 26 Nov | Mixture Models & Expectation Maximisation  |          |          |
+| 26 Nov | Mixture Models & Expectation Maximisation  | Ch. 11   |[Tutorial 7](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_7.pdf)|
 | 3 Dec  | Markov & Hidden Markov Models              |          |          |
 | 10 Dec | Inference Methods                          |          |          |
 | 17 Dec | Undirected Graphical Models                |          |          |
