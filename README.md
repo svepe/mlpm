@@ -21,11 +21,14 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 12 Nov | Logistic Regression                        | Ch. 8    |[Tutorial 5](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_5.pdf)|
 | 19 Nov | Directed Graphical Models                  | Ch. 10   |[Tutorial 6](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_6.pdf)|
 | 26 Nov | Mixture Models & Expectation Maximisation  | Ch. 11   |[Tutorial 7](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_7.pdf)|
-| 3 Dec  | Markov & Hidden Markov Models              |          |          |
+| 3 Dec  | Markov & Hidden Markov Models              | Ch. 17   |[Tutorial 8](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_8.pdf)|
 | 10 Dec | Inference Methods                          |          |          |
-| 17 Dec | Undirected Graphical Models                |          |          |
-| 7 Jan  | Probabilistic & Differentiable Programming |          |          |
-| 14 Jan | Deep Generative Models                     |          |          |
+| 17 Dec | TBD                                        |          |          |
+| 7 Jan  | TBD                                        |          |          |
+| 14 Jan | TBD                                        |          |          |
+<!-- | 17 Dec | Undirected Graphical Models                |          |          | -->
+<!-- | 7 Jan  | Probabilistic & Differentiable Programming |          |          | -->
+<!-- | 14 Jan | Deep Generative Models                     |          |          | -->
 
 You can find all the code from the tutorials [here](https://github.com/svepe/mlpm/tree/master/tutorials/code).
 
