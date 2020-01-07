@@ -24,7 +24,7 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 3 Dec  | Markov & Hidden Markov Models              | Ch. 17   |[Tutorial 8](https://github.com/svepe/mlpm/blob/master/tutorials/mlpm_tutorial_8.pdf)|
 | 10 Dec | Inference Methods                          | Ch. 23, Sec. 21.1-2, 24.1-3 | |
 | 17 Dec | Project Announcement                       | [Slides](https://github.com/svepe/mlpm/raw/master/slides/mlpm_project.pdf) | |
-| 7 Jan  | TBD                                        |          |          |
+| 7 Jan  | Differentiable Programming                 | [Slides](https://github.com/svepe/mlpm/raw/master/slides/10.%20Differentiable%20Programming.pdf) | |
 | 14 Jan | TBD                                        |          |          |
 
 <!-- | 7 Jan  | Probabilistic & Differentiable Programming |          |          | -->
