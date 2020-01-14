@@ -25,10 +25,9 @@ In order to sign up for the course and get access to the Piazza group fill in
 | 10 Dec | Inference Methods                          | Ch. 23, Sec. 21.1-2, 24.1-3 | |
 | 17 Dec | Project Announcement                       | [Slides](https://github.com/svepe/mlpm/raw/master/slides/mlpm_project.pdf) | |
 | 7 Jan  | Differentiable Programming                 | [Slides](https://github.com/svepe/mlpm/raw/master/slides/10.%20Differentiable%20Programming.pdf) | |
-| 14 Jan | TBD                                        |          |          |
-
-<!-- | 7 Jan  | Probabilistic & Differentiable Programming |          |          | -->
-<!-- | 14 Jan | Deep Generative Models                     |          |          | -->
+| 14 Jan | Deep Generative Models                     | [Slides](https://github.com/svepe/mlpm/raw/master/slides/11.%20Deep%20Generative%20Models.pdf) | |
+| 28 Jan | Q&A session, 17:00 - 19:00                 | | |
+| 11 Feb | Project Presentations, 17:00 - 21:00       | | |
 
 You can find all the code from the tutorials [here](https://github.com/svepe/mlpm/tree/master/tutorials/code).
 
